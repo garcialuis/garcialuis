@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software engineer with over 6 years of experience. Back-end development is what I enjoy working on the most and has been the focus of my career; however, I am always looking for new projects to develop and new technologies to learn. I am passionate about technology and want to continue to improve my skills as a developer.
+I'm a software engineer with over 6 years of experience. Back-end development is what I enjoy working on the most and has been the focus of my career; however, I am always looking for new projects to develop and new technologies to learn 🌱. I am passionate about technology and want to continue to improve my skills as a developer.
 
 - 📫 How to reach me:
 <!--
