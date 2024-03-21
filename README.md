@@ -25,6 +25,10 @@ I'm a software engineer with over 6 years of experience. Back-end development is
 <!--
   <p><a href="https://linkedin.com/in/luisgarcia15" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a></p> 
   -->
+  <a href="https://github.com/garcialuis/garcialuis">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=garcialuis&hide=java,html,tex&langs_count=3&theme=vision-friendly-dark" />
+  </a>
+  
 
 #### A smile a day helps keep the doctor away 😁🧑‍💻: 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
